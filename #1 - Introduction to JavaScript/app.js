@@ -1,2 +1,2 @@
-//imp! External JavaScript
+//note: External JavaScript
 console.log('Hello')
