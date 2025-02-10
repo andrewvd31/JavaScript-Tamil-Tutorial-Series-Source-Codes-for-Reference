@@ -32,17 +32,17 @@ const SAMPLEAGE = 2025 - 1980; */
 
 /* let demoValue = 10 + 5;
 console.log(demoValue); */
-//imp! Plus operator will be assigned before the = operator
+//note: Plus operator will be assigned before the = operator
 
-/* demoValue+= 10; //imp! instead of demoValue = demoValue + 10
+/* demoValue+= 10; //soln: instead of demoValue = demoValue + 10
 console.log(demoValue); */
-/* demoValue-= 5; //imp! instead of demoValue = demoValue - 5
+/* demoValue-= 5; //soln: instead of demoValue = demoValue - 5
 console.log(demoValue); */
-/* demoValue*= 2; //imp! instead of demoValue = demoValue * 2
+/* demoValue*= 2; //soln: instead of demoValue = demoValue * 2
 console.log(demoValue); */
-/* demoValue++; //imp! instead of demoValue = demoValue + 1
+/* demoValue++; //soln: instead of demoValue = demoValue + 1
 console.log(demoValue); */
-/* demoValue--; //imp! instead of demoValue = demoValue - 1
+/* demoValue--; //soln: instead of demoValue = demoValue - 1
 console.log(demoValue); */
 
 //title: 3. Comparison Operators (<, >, <=, >=, ==, ===, !=, !==)
