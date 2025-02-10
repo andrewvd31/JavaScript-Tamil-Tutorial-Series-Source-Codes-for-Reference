@@ -1,10 +1,10 @@
-//imp! Console logging the document
-console.log(document)
+//note: Console logging the document
+/* console.log(document) */
 
-//imp! Adding text to the p tag
-document.getElementById('paragraph').textContent = "Hello world";
+//note: Adding text to the p tag
+/* document.getElementById('paragraph').textContent = "Hello world"; */
 
-//imp! Creating a new element using DOM
-let element = document.createElement('h1')
+//note: Creating a new element using DOM
+/* let element = document.createElement('h1')
 element.textContent = "New Heading";
-document.body.appendChild(element);
+document.body.appendChild(element); */
