@@ -1,3 +1,5 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 //theory: Operator - Allows to combine two values. Also do all kinds of work with values.
 
 //title: Categories of Operators:

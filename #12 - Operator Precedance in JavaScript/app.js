@@ -1,4 +1,6 @@
-// imp! Refer the Operator Reference Table below for all the operator precedance for symbols
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
+// note: Refer the Operator Reference Table below for all the operator precedance for symbols
 
 /* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence */
 

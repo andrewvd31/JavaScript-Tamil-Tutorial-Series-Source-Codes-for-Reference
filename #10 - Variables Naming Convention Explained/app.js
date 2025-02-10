@@ -1,3 +1,5 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 /* let variableName  = "Demo"; */ //imp! Camelcase variable declaration is common in JavaScript
 
 /* let 3Variable = "Text"; */ //imp! Variable name should not start with a number. It shows Syntax Error

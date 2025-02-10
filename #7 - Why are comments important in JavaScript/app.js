@@ -1,3 +1,5 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 //title: SINGLE LINE COMMENTS
 //note: This is an example of a single line comment
 /* This is an example of a multi-line comment */
