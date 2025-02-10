@@ -1,3 +1,5 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 //prog: Variable with console.log()
 /* let test = "Demo";
 console.log(test); */

@@ -1,3 +1,5 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 //note: Console logging the document
 /* console.log(document) */
 
