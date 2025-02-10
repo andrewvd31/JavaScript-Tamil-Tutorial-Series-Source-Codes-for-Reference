@@ -1,6 +1,8 @@
+// imp! Remove the /* */ (Comments) to check the code in the browser
+
 /* console.log("Hello world"); */
 
-//imp! It is considered a good practice to declare variables before use.
+//note: It is considered a good practice to declare variables before use.
 
 //title: Automatic Variable Declaration
 /* newVar1 = "Hello world";
@@ -11,8 +13,8 @@ console.log(z); */
 
 //title: Use of var keyword to declare variables
 
-// imp! The var keyword was used in all JavaScript code from 1995 to 2015.
-// imp! The var keyword should only be used in code written for older browsers.
+// theory: The var keyword was used in all JavaScript code from 1995 to 2015.
+// theory: The var keyword should only be used in code written for older browsers.
 
 /* var newVar2 = "Hello world"; */
 
@@ -23,11 +25,11 @@ console.log(z); */
 
 //title: Use of let keyword to declare variables
 
-//imp! The let and const keywords were added to JavaScript in 2015.
+//note: The let and const keywords were added to JavaScript in 2015.
 
 /* let newVar3 = "Hello world"; */
 
-//imp! Let variables cannot be reassigned
+//note: Let variables cannot be reassigned
 
 /* let newVar4 = "Hello world";
 let newVar4 = "Hello world 3";
@@ -35,10 +37,10 @@ console.log(newVar4); */
 
 //title: Difference between var and let variables
 
-//imp! var variable declaration is function scoped
-//imp! let variable declaration is block scoped
+//theory: var variable declaration is function scoped
+//theory: let variable declaration is block scoped
 
-//imp! This will be taught in the next video
+//note: This will be taught in the next video
 
 //title: Use of const to declare variables
 
@@ -46,9 +48,9 @@ console.log(newVar4); */
 newConst = "New Constant 2";
 console.log(newConst);*/
 
-//imp! Constant variables cannot be redeclared
+//note: Constant variables cannot be redeclared
 
-//imp! But let variables can be redeclared
+//note: But let variables can be redeclared
 
 /* let newLet = "New constant";
 newLet = "New Constant 3";
