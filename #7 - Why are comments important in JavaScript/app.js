@@ -9,4 +9,4 @@
     console.log('Yes')
 } */
 
-//imp! NOTE: Better comments extension does'nt work with the multi-comment comments in Javascript
+//imp! Better comments extension does'nt work with the multi-comment comments in Javascript
