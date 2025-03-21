@@ -26,5 +26,5 @@ lines`)
 //imp!: For multiline strings, Always use template Literals
 
 //theory: Template Literals are available in JavaScript from ES6
-//theory: Single quotes and double quotes won't work inside the template literal
+//theory: Single quotes and double quotes work inside the template literal
 //theory: We can also use backticks for any regular strings
