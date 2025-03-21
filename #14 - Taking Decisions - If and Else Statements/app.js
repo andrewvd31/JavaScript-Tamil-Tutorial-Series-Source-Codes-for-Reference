@@ -1,10 +1,9 @@
 const age = 19
-const isAgeEnough = age >= 18
 
-if (isAgeEnough){
-    console.log('Yes');
+if (age >= 18){
+    console.log('Yes. You can start driving a car');
 }
 
 else{
-    console.log('No');
+    console.log('No. Yes. You cannot drive a car');
 }
