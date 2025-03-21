@@ -11,4 +11,4 @@ else{
 
 // note: Else statement is just optional
 
-//note: if () {} else{} is called if...else control structure
+//note: if () {} else{} is called if...else control structure. It gives a control over whtat to do.
