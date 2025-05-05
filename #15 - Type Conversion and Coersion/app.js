@@ -30,3 +30,4 @@ n = n - 40;
 console.log(n);
 
 console.log('23'-'8'-'7' + '30'); // 830 (number - number - number + string = string)
+
