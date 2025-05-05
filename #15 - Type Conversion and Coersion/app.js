@@ -22,3 +22,11 @@ console.log(5 + 6 + '6') // 566 (number + string + string = string)
 console.log('45' - '5'); // 40 (string - string = number)
 console.log('38' * '21'); // 798 (string * string = number)
 console.log('254' / '5'); // 50.8 (string / string = number)
+
+// Guess the number
+
+let n = '11' + 6;
+n = n - 40;
+console.log(n);
+
+console.log('23'-'8'-'7' + '30'); // 830 (number - number - number + string = string)
