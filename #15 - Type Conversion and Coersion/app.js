@@ -16,3 +16,9 @@
 
 //note: If subtraction is performed between a string and a string, it returns number as the output.
 
+console.log('56' + '67'); // 5667 (string + string = string)
+console.log(5 + '6'); // 56 (number + string = string)
+console.log(5 + 6 + '6') // 566 (number + string + string = string)
+console.log('45' - '5'); // 40 (string - string = number)
+console.log('38' * '21'); // 798 (string * string = number)
+console.log('254' / '5'); // 50.8 (string / string = number)
