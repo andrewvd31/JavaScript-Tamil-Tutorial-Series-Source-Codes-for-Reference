@@ -1,3 +1,10 @@
 // note: 5 Falsy Values
 
-// 0, '', null, undefined, NaN
+// note: 0, '', null, undefined, NaN
+
+/* Boolean(0); // false
+Boolean(''); // false
+Boolean('90'); // true */
+
+/* imp! Boolean({}); // true
+Boolean([]); // true  */
