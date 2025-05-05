@@ -6,3 +6,6 @@
 
 //note: For Manual Type Conversion: Use Number(), String(), Boolean()
 
+//note: Type of NaN will be a number.
+
+//imp! The purple color in the browser denotes a number and the light blue number denotes a string.
