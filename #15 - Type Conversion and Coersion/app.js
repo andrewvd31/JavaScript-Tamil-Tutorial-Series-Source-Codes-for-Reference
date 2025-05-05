@@ -9,3 +9,6 @@
 //note: Type of NaN will be a number.
 
 //imp! The purple color in the browser denotes a number and the light blue number denotes a string.
+
+//note: We cannot convert something to undefined or null. We can only convert to a number, string or boolean.
+
