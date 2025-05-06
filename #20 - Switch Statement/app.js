@@ -1,5 +1,7 @@
 //note: Switch statement - An alternative for adding multiple complex if statements
 
+//note: Switch statement looks neat and cleaner than if else statement.
+
 const switchDemo = 'monay';
 
 switch (switchDemo){
